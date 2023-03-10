@@ -1,2 +1,1 @@
-# LinuxKernel
-Parallel computing on Linux
+# OS_Homework2
