@@ -1,1 +1,2 @@
-# OS_Homework2
+# practice of parallel computing
+
